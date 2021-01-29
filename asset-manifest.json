@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/weather-app/static/css/main.46730d4e.chunk.css",
+    "main.js": "/weather-app/static/js/main.69bfde96.chunk.js",
+    "main.js.map": "/weather-app/static/js/main.69bfde96.chunk.js.map",
+    "runtime-main.js": "/weather-app/static/js/runtime-main.2eb53c49.js",
+    "runtime-main.js.map": "/weather-app/static/js/runtime-main.2eb53c49.js.map",
+    "static/js/2.d99e0457.chunk.js": "/weather-app/static/js/2.d99e0457.chunk.js",
+    "static/js/2.d99e0457.chunk.js.map": "/weather-app/static/js/2.d99e0457.chunk.js.map",
+    "static/js/3.4e540782.chunk.js": "/weather-app/static/js/3.4e540782.chunk.js",
+    "static/js/3.4e540782.chunk.js.map": "/weather-app/static/js/3.4e540782.chunk.js.map",
+    "index.html": "/weather-app/index.html",
+    "static/css/main.46730d4e.chunk.css.map": "/weather-app/static/css/main.46730d4e.chunk.css.map",
+    "static/js/2.d99e0457.chunk.js.LICENSE.txt": "/weather-app/static/js/2.d99e0457.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/weather-app/static/media/bg-hanoi2.2f2e4a51.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2eb53c49.js",
+    "static/js/2.d99e0457.chunk.js",
+    "static/css/main.46730d4e.chunk.css",
+    "static/js/main.69bfde96.chunk.js"
+  ]
+}
